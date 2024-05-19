@@ -1,0 +1,157 @@
+ /* body{
+    background-color: bisque;
+}
+    p.one{
+     background-color: pink;
+     font-style: italic;
+     font-size: larger;
+     padding-block: 2%;
+     padding-inline-start: 2%;
+     padding-right: 10%;
+     
+}
+
+img.a{
+    border-color: red;
+    border-style: groove;
+    border-radius: 10%
+}
+
+
+p.two{
+    background-color: yellow;
+    font-style: italic;
+    font-size: larger;
+    padding-block: 2%;
+    padding-inline-start: 2%;
+    padding-left: 10%;
+}
+img.b{
+    border-color: darkgoldenrod;
+    border-style: groove;
+    border-radius: 10%;
+}
+p.three{
+    background-color: rgb(186, 144, 186);
+    font-style: italic;
+    font-size: larger;
+    padding-block: 2%;
+    padding-inline-start: 2%;
+    padding-right: 10%;
+}
+img.c{
+    border-color: purple;
+    border-style: groove;
+    border-radius: 10%;
+}
+
+
+p.four{
+    background-color:pink;
+   font-style: italic;
+   font-size: larger;
+   padding-block: 2%;
+   padding-inline-start: 2%;
+   padding-left: 10%;
+}
+
+img.d{
+    border-color: magenta;
+    border-style: groove;
+    border-radius: 10%;
+}
+p.five{
+    background-color: yellowgreen;
+    font-style: italic;
+    font-size: larger;
+    padding-block: 2%;
+    padding-inline-start: 2%;
+    padding-right: 10%;
+
+}
+img.e{
+    border-color: darkgreen;
+    border-style: groove;
+    border-radius: 10%;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+ */
+
+h1{
+    text-align: center;
+}
+td{
+    width: 40px;
+    height: 40px; 
+    text-align: center;
+
+}
+
+
+.number{
+ line-height: 0px;
+ font: size 20px;
+ font-weight:bold;
+
+}
+
+.name{
+line-height: 0px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.category1{
+    background-color: rgb(126, 228, 134)
+}
+
+.category2{
+    background-color:  rgb(219, 9, 30)
+}
+
+.category3{
+    background-color: rgb(236, 142, 74);
+
+}
+
+.category4{
+    background-color: rgb(136, 208, 219);
+}
+
+.category5{
+    background-color: rgb(197, 158, 199)
+ }
+
+.category6{
+    background-color:yellow
+}
+
+.category7{
+    background-color:pink
+}
+
+.category8{
+   background-color: rgb(197, 187, 187) ;
+}
+
+.category9{
+
+    background-color: rgb(111, 144, 241) ;
+
+}
+
+.category10{
+
+       background-color: rgb(6, 240, 162);
+}
